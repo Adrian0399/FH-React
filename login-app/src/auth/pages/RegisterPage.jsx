@@ -10,9 +10,9 @@ export const RegisterPage = () => {
           <Grid container>
           <Grid item xs={12} sx={{ mt: 2}}>
               <TextField 
-                label="Nombre completo" 
+                label="Username" 
                 type="text"
-                placeholder='Ingrese su nombre completo'
+                placeholder='Ingrese su username'
                 fullWidth
               />
             </Grid>
